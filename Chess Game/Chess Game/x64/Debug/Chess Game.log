@@ -1,0 +1,24 @@
+﻿  utilities.cpp
+  win32_platform.cpp
+  Generating Code...
+C:\Users\Great\OneDrive\Documents\Personal Projects\Chess Game\Chess Game\renderer.cpp(36,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\Great\OneDrive\Documents\Personal Projects\Chess Game\Chess Game\renderer.cpp(36,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\Great\OneDrive\Documents\Personal Projects\Chess Game\Chess Game\renderer.cpp(36,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\Great\OneDrive\Documents\Personal Projects\Chess Game\Chess Game\renderer.cpp(36,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\Great\OneDrive\Documents\Personal Projects\Chess Game\Chess Game\chess_piece.cpp(33,88): error C2440: 'initializing': cannot convert from '_InIt' to 'int *'
+C:\Users\Great\OneDrive\Documents\Personal Projects\Chess Game\Chess Game\chess_piece.cpp(33,88): error C2440:         with
+C:\Users\Great\OneDrive\Documents\Personal Projects\Chess Game\Chess Game\chess_piece.cpp(33,88): error C2440:         [
+C:\Users\Great\OneDrive\Documents\Personal Projects\Chess Game\Chess Game\chess_piece.cpp(33,88): error C2440:             _InIt=char *
+C:\Users\Great\OneDrive\Documents\Personal Projects\Chess Game\Chess Game\chess_piece.cpp(33,88): error C2440:         ]
+  (compiling source file 'win32_platform.cpp')
+      C:\Users\Great\OneDrive\Documents\Personal Projects\Chess Game\Chess Game\chess_piece.cpp(33,88):
+      Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  

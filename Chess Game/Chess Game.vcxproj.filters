@@ -44,10 +44,10 @@
     <ClInclude Include="GridPanel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\OneDrive\Documents\Chess Game\ChessPiece.h">
+    <ClInclude Include="..\..\..\..\OneDrive\Documents\Chess Game\Grid.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\OneDrive\Documents\Chess Game\Grid.h">
+    <ClInclude Include="ChessPiece.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

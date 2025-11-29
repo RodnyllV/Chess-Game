@@ -131,11 +131,11 @@
     <ClCompile Include="App.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\OneDrive\Documents\Chess Game\ChessPiece.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Documents\Chess Game\Grid.h" />
     <ClInclude Include="App.h" />
     <ClInclude Include="Frame.h" />
     <ClInclude Include="GridPanel.h" />
+    <ClInclude Include="ChessPiece.h" />
     <ClInclude Include="Pawn.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>

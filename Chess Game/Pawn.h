@@ -7,17 +7,23 @@
 #include "ChessPiece.h"
 
 class Pawn : public ChessPiece {
-	private:
-		bool firstMove;
 	public:
-		Pawn(wxColour& color, char player, char* position);
+		Pawn(wxWindow* parent, wxColour& color, char player, char* position);
+		
+		void SetPositionParams() override;
 		//void SetPositionParams() override;
 		//void Move() override;
 };
 
-Pawn::Pawn(wxColour& color, char player, char* position) : ChessPiece(color, player, position) {
-	this->firstMove = true;
+Pawn::Pawn(wxWindow* parent, wxColour& color, char player, char* position) : ChessPiece(parent, color, player, position) {
+	SetAppearance("../Resource Files/Images/Pawn.png");
 }
+
+void Pawn::SetPositionParams() {
+
+}
+
+
 /*
 void Pawn::SetPositionParams() {
 	// TODO
